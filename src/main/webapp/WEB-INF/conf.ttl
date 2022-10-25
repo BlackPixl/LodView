@@ -52,6 +52,7 @@
 @prefix claros: <http://purl.org/NET/Claros/vocab#> .
 @prefix crm120111: <http://erlangen-crm.org/120111/> .
 @prefix rel: <http://purl.org/vocab/relationship/> .
+@prefix geopolitica: <http://www.geopolitica.com/> .
 
 
 <> a conf:Configuration;
